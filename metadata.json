@@ -1,0 +1,5 @@
+{
+  "name": "ChatGPT Clone UI",
+  "description": "A dark-themed chat interface inspired by ChatGPT, featuring a sidebar, suggestion cards, and a sleek input area.",
+  "requestFramePermissions": []
+}
